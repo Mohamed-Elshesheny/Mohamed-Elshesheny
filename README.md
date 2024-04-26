@@ -35,29 +35,3 @@
 
 
 
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.Mohamed-Elshesheny.vercel.app/api?username=Mohamed-Elshesheny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mohamed's Github Stats" width="60%">
-
-<img src="https://github-readme-stats.Mohamed-Elshesheny.vercel.app/api/top-langs/?username=Mohamed-Elshesheny&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Elshesheny&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elshesheny&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Mohamed-Elshesheny">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Elshesheny&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Mohamed-Elshesheny/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Elshesheny=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Mohamed-Elshesheny/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Elshesheny&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
-<br>
-
