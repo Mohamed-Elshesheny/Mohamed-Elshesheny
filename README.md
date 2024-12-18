@@ -1,47 +1,47 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Mohamed Elshesheny</h1>
-<h3 align="center">Backend Developer | Software Engineer</h3>
+<h1 align="center" style="color:#00E6E6;">Hi 👋, I'm Mohamed Elshesheny</h1>
+<h3 align="center" style="color:#FFAA33;">Backend Developer | Software Engineer</h3>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+with+Node.js;Specialized+in+Express+and+MongoDB;Proficient+in+SQL+%7C+PostgreSQL;TypeScript+Enthusiast+%7C+Problem+Solver;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF6600&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+%7C+Node.js+Specialist;Expert+in+Express%2C+MongoDB+and+SQL;Learning+TypeScript+%7C+Problem+Solver;Clean+Code+%7C+Scalable+Applications;" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4ASafy0.png" alt="Profile Banner" />
+  <img src="https://i.imgur.com/4ASafy0.png" alt="Profile Banner" style="border-radius:10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </p>
 
 ---
 
 ### 👨‍💻 **About Me**
-- 🚀 **Backend Developer** with a strong focus on **Node.js** and **Express.js**.
-- 💾 Skilled in **SQL**, **PostgreSQL**, and **MongoDB** for efficient database management.
-- 🛠️ Currently exploring **TypeScript** for building scalable and type-safe applications.
+- 🚀 **Backend Developer** with expertise in **Node.js**, **Express.js**, and **TypeScript**.
+- 💾 Proficient in **MongoDB**, **PostgreSQL**, and **SQL** for database management.
+- 🛠️ Passionate about solving problems, writing clean and scalable code.
 - 🎓 Engineering Student at **Mansoura University (MU)**.
-- 🌟 Passionate about solving problems, writing clean code, and learning new technologies.
-- 📫 **Contact Me**: **mohamedelshesheny62@gmail.com**
+- 🌱 Actively exploring new backend technologies.
+- 📫 Contact Me: [**mohamedelshesheny62@gmail.com**](mailto:mohamedelshesheny62@gmail.com)
 
 ---
 
 ### 🌐 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elshesheiny-72b618100/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Sheno47" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%23F26C4F.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://twitter.com/Mo_zakaria7" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sheno_o7/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mohamedelshesheny62@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -50,28 +50,24 @@
 ### 🚀 **Tech Stack**
 <p align="center">
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-009688?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-
 
 
 
 <p align="center">
-  🚀 **Let's build something amazing together!** 🚀
+  🚀 Let's build something amazing together! 🚀
 </p>
