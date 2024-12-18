@@ -2,46 +2,43 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elshesheny</h1>
 <h3 align="center">Backend Developer | Software Engineer</h3>
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+with+Node.js;Specialized+in+Express+and+MongoDB;Proficient+in+SQL+%7C+PostgreSQL;TypeScript+Enthusiast+%7C+Problem+Solver;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=FF8700&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+with+Node.js;Specialized+in+Express+and+MongoDB;Proficient+in+SQL+%7C+PostgreSQL;TypeScript+%7C+Problem+Solver+%7C+Linux+User;" alt="Typing Animation" />
   </a>
 </p>
 
-<!-- Banner -->
+<!-- Animated Profile Image -->
 <p align="center">
-  <img src="https://i.imgur.com/4ASafy0.png" alt="Profile Banner" />
+  <img src="./IMG_1828.jpg" width="200" style="border-radius: 50%; box-shadow: 0px 0px 10px #ddd;" alt="Profile Picture" />
 </p>
 
 ---
 
 ### 👨‍💻 **About Me**
-- 🚀 **Backend Developer** with a strong focus on **Node.js** and **Express.js**.
-- 💾 Skilled in **SQL**, **PostgreSQL**, and **MongoDB** for efficient database management.
-- 🛠️ Currently exploring **TypeScript** for building scalable and type-safe applications.
-- 🎓 Engineering Student at **Mansoura University (MU)**.
-- 🌟 Passionate about solving problems, writing clean code, and learning new technologies.
-- 📫 **Contact Me**: **mohamedelshesheny62@gmail.com**
+- 🚀 **Backend Developer** with expertise in **Node.js**, **Express.js**, and **TypeScript**.
+- 💾 Skilled in **SQL**, **PostgreSQL**, and **MongoDB** for efficient database operations.
+- 🌱 Passionate about writing clean, maintainable, and scalable code.
+- 🎓 Engineering Student at **Mansoura University**.
+- 💡 Always exploring new technologies to improve my tech stack.
+- 📫 **Contact Me**: [mohamedelshesheny62@gmail.com](mailto:mohamedelshesheny62@gmail.com)
 
 ---
 
 ### 🌐 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elshesheiny-72b618100/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Sheno47" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%23F26C4F.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://twitter.com/Mo_zakaria7" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sheno_o7/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:mohamedelshesheny62@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -49,50 +46,43 @@
 
 ### 🚀 **Tech Stack**
 <p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,postgresql,sql,git,linux,postman,python" alt="Tech Stack" />
 </p>
+
+---
+
+### 🌟 **Featured Projects**
+| 🚀 **Project**          | 🛠️ **Tech Stack**                  | 🌟 **Description**                                      |
+|-------------------------|----------------------------------|--------------------------------------------------------|
+| **Translation App**     | Node.js, MongoDB, Express.js    | Language detection, authentication, and translations. |
+| **Task Manager**        | Node.js, SQL, Express.js        | Task CRUD operations with filters and user auth.      |
+| **RESTful API Service** | Node.js, PostgreSQL, TypeScript | Efficient APIs for structured data management.        |
 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elshesheny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elshesheny&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elshesheny&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elshesheny&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elshesheny&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elshesheny&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 **Recent Projects**
-| 🚀 **Project Name** | 🛠️ **Tech Stack** | 🌟 **Features** |
-|---------------------|-------------------|----------------|
-| **Translation Application** | Node.js, MongoDB, Express.js | Language Detection, Auth System |
-| **Task Manager App** | Node.js, SQL | Task Management (CRUD), User Auth |
-| **API with PostgreSQL** | Node.js, PostgreSQL | RESTful API for Data Operations |
+### 🎯 **Fun Facts**
+- ⚡ I’m a problem solver at heart and enjoy tackling challenging backend tasks.
+- 🚀 Always looking to collaborate on innovative backend projects.
+- 💡 Fun fact: I am an **active Linux user** and love optimizing workflows.
 
 ---
 
-### 🧩 **Fun Facts**
-- ⚡ I enjoy solving challenging coding problems.
-- 🌍 Open to collaboration on backend development projects.
-- 💡 Always eager to learn and adopt new technologies.
+### 💻 **Profile Visitors**
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Elshesheny.visitor-badge" alt="Profile Visitors" />
+</p>
 
 ---
 
 <p align="center">
-  🚀 **Let's build something amazing together!** 🚀
+  🔥 **Let's build something incredible together!** 🔥
 </p>
