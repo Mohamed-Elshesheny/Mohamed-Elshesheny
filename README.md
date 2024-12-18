@@ -2,12 +2,6 @@
 <h1 align="center" style="color:#00E6E6;">Hi 👋, I'm Mohamed Elshesheny</h1>
 <h3 align="center" style="color:#FFAA33;">Backend Developer | Software Engineer</h3>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF6600&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+%7C+Node.js+Specialist;Expert+in+Express%2C+MongoDB+and+SQL;Learning+TypeScript+%7C+Docker+%7C+pgAdmin4;HTML%2C+CSS%2C+SASS+%7C+Figma+Enthusiast;Clean+Code+%7C+Scalable+Applications;" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- Banner -->
 <p align="center">
