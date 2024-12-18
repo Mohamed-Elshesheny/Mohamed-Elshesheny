@@ -76,16 +76,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elshesheny&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elshesheny&theme=gruvbox" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
-  🚀 **Let's build something amazing together!** 🚀
+  🚀 Let's build something amazing together! 🚀
 </p>
