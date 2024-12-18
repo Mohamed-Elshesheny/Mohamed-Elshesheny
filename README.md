@@ -1,97 +1,70 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Mohamed Elshesheny</h1>
-<h3 align="center">Software Engineer | Backend Developer</h3>
+<h3 align="center">Backend Developer | Software Engineer</h3>
 
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0AE0A8&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+with+Node.js;Experienced+in+Express.js+%7C+MongoDB;Learning+TypeScript+%7C+PostgreSQL;Engineering+Student+at+(MU);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+with+Node.js;Specialized+in+Express+and+MongoDB;Proficient+in+SQL+%7C+PostgreSQL;TypeScript+Enthusiast+%7C+Problem+Solver;" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/4ASafy0.png" alt="Banner" />
+  <img src="https://i.imgur.com/4ASafy0.png" alt="Profile Banner" />
 </p>
 
 ---
 
 ### 👨‍💻 **About Me**
-- 🚀 I am a **Backend Developer** specializing in **Node.js** and **Express.js**.
-- 💻 I have hands-on experience working with **MongoDB**, **PostgreSQL**, and **SQL**.
-- 🎯 I am currently learning **TypeScript** to improve my development efficiency.
-- 🎓 I am an **Engineering Student** at **Mansoura University**.
-- 📫 **How to reach me:** mohamedelshesheny62@gmail.com
+- 🚀 **Backend Developer** with a strong focus on **Node.js** and **Express.js**.
+- 💾 Skilled in **SQL**, **PostgreSQL**, and **MongoDB** for efficient database management.
+- 🛠️ Currently exploring **TypeScript** for building scalable and type-safe applications.
+- 🎓 Engineering Student at **Mansoura University (MU)**.
+- 🌟 Passionate about solving problems, writing clean code, and learning new technologies.
+- 📫 **Contact Me**: **mohamedelshesheny62@gmail.com**
 
 ---
 
 ### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elshesheiny-72b618100/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohamed-elshesheiny-72b618100/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/Sheno47" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/Sheno47" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%23F26C4F.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.facebook.com/mohamed.elsstaoe?locale=ar_AR" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
+  <a href="https://twitter.com/Mo_zakaria7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/sheno_o7/" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+  <a href="https://www.instagram.com/sheno_o7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/Mo_zakaria7" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
+  <a href="mailto:mohamedelshesheny62@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🛠️ **Languages and Tools**
+### 🚀 **Tech Stack**
 <p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-  </a>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-### 🚀 **Projects**
-Here are a few projects that I’ve worked on:
-
-1. **Translation Application**
-   - **Tech Stack:** Node.js, Express.js, MongoDB
-   - **Features:** Authentication, Authorization, Language Detection (Arabic/English), and Dynamic Content Translation.
-
-2. **Task Manager Application**
-   - **Tech Stack:** Node.js, MongoDB, SQL
-   - **Features:** CRUD operations, user authentication, and task management with filters.
 
 ---
 
@@ -99,8 +72,27 @@ Here are a few projects that I’ve worked on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elshesheny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elshesheny&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elshesheny&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">⭐ **Thank you for visiting my profile!** ⭐</p>
+### 🔥 **Recent Projects**
+| 🚀 **Project Name** | 🛠️ **Tech Stack** | 🌟 **Features** |
+|---------------------|-------------------|----------------|
+| **Translation Application** | Node.js, MongoDB, Express.js | Language Detection, Auth System |
+| **Task Manager App** | Node.js, SQL | Task Management (CRUD), User Auth |
+| **API with PostgreSQL** | Node.js, PostgreSQL | RESTful API for Data Operations |
+
+---
+
+### 🧩 **Fun Facts**
+- ⚡ I enjoy solving challenging coding problems.
+- 🌍 Open to collaboration on backend development projects.
+- 💡 Always eager to learn and adopt new technologies.
+
+---
+
+<p align="center">
+  🚀 **Let's build something amazing together!** 🚀
+</p>
