@@ -5,7 +5,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF6600&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+%7C+Node.js+Specialist;Expert+in+Express%2C+MongoDB+and+SQL;Learning+TypeScript+%7C+Problem+Solver;Clean+Code+%7C+Scalable+Applications;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF6600&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+%7C+Node.js+Specialist;Expert+in+Express%2C+MongoDB+and+SQL;Learning+TypeScript+%7C+Docker+%7C+pgAdmin4;HTML%2C+CSS%2C+SASS+%7C+Figma+Enthusiast;Clean+Code+%7C+Scalable+Applications;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,10 +19,11 @@
 ### 👨‍💻 **About Me**
 - 🚀 **Backend Developer** with expertise in **Node.js**, **Express.js**, and **TypeScript**.
 - 💾 Proficient in **MongoDB**, **PostgreSQL**, and **SQL** for database management.
-- 🛠️ Passionate about solving problems, writing clean and scalable code.
+- 🛠️ Skilled with **Docker**, **pgAdmin4**, and **Linux** for development and deployment.
+- 🎨 Experienced with **HTML**, **CSS**, **SASS**, and **Figma** for seamless UI/UX collaboration.
 - 🎓 Engineering Student at **Mansoura University (MU)**.
-- 🌱 Actively exploring new backend technologies.
-- 📫 Contact Me: [**mohamedelshesheny62@gmail.com**](mailto:mohamedelshesheny62@gmail.com)
+- 🌱 Always learning new technologies to build scalable applications.
+- 📫 Contact Me: [**mohamedelshesheny62@gmail.com**](mailto:mohamedelshesheny62@gmail.com).
 
 ---
 
@@ -54,20 +55,37 @@
   <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgAdmin4-0091D3?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <!-- Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
 
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elshesheny&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elshesheny&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+---
 
 <p align="center">
-  🚀 Let's build something amazing together! 🚀
+  🚀 **Let's build something amazing together!** 🚀
 </p>
